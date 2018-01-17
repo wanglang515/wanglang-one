@@ -4,7 +4,7 @@ import android.util.Log
 
 /**
  * @Description:
- * @Created by 冠方 on 2018-01-17.
+ * @Created by wl on 2018-01-17.
  */
 object Wlogger {
     private val head = "Logger"
